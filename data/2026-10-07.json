@@ -73,97 +73,83 @@
    {
     "query": "طريقة عمل شوربة الكوارع",
     "seed": "شوربة",
-    "value": 41900,
+    "value": 42050,
     "breakout": true,
     "formatted": "ارتفاع هائل"
    },
    {
-    "query": "طريقة عمل شوربة الجمبري زي المطاعم",
-    "seed": "شوربة",
-    "value": 30750,
+    "query": "طريقة عمل مكرونة بالكبدة",
+    "seed": "مكرونة",
+    "value": 30900,
     "breakout": true,
     "formatted": "ارتفاع هائل"
    },
    {
-    "query": "فراخ برياني",
+    "query": "طريقة عمل الفاهيتا فراخ",
     "seed": "فراخ",
-    "value": 7900,
+    "value": 5950,
     "breakout": true,
     "formatted": "ارتفاع هائل"
-   },
-   {
-    "query": "اكلات بالبطاطس",
-    "seed": "اكلات",
-    "value": 650,
-    "breakout": false,
-    "formatted": "+650‎%‎"
-   },
-   {
-    "query": "طريقه عمل محشي الكرنب",
-    "seed": "محشي",
-    "value": 550,
-    "breakout": false,
-    "formatted": "+550‎%‎"
-   },
-   {
-    "query": "اكلات للرجيم",
-    "seed": "اكلات",
-    "value": 150,
-    "breakout": false,
-    "formatted": "+150‎%‎"
-   },
-   {
-    "query": "اكلات سوريه",
-    "seed": "اكلات",
-    "value": 150,
-    "breakout": false,
-    "formatted": "+150‎%‎"
    },
    {
     "query": "ورقة لحمة بالخضار",
     "seed": "لحمة",
+    "value": 350,
+    "breakout": false,
+    "formatted": "+350‎%‎"
+   },
+   {
+    "query": "اكلات باللحمة القطع",
+    "seed": "اكلات",
+    "value": 170,
+    "breakout": false,
+    "formatted": "+170‎%‎"
+   },
+   {
+    "query": "وصفات باللحمة المفرومة",
+    "seed": "وصفات",
     "value": 140,
     "breakout": false,
     "formatted": "+140‎%‎"
    },
    {
-    "query": "رز بالكبدة",
-    "seed": "رز",
-    "value": 130,
-    "breakout": false,
-    "formatted": "+130‎%‎"
-   },
-   {
-    "query": "طريقة عمل برجر اللحم مثل المطاعم",
-    "seed": "برجر",
+    "query": "طريقة عمل شاورما لحمة",
+    "seed": "لحمة",
     "value": 120,
     "breakout": false,
     "formatted": "+120‎%‎"
    },
    {
-    "query": "وصفات باللحمة المفرومة",
-    "seed": "وصفات",
-    "value": 110,
+    "query": "طريقة عمل صلصة الكشري",
+    "seed": "طريقة عمل",
+    "value": 100,
     "breakout": false,
-    "formatted": "+110‎%‎"
+    "formatted": "+100‎%‎"
    },
    {
-    "query": "اكلات تركيه",
+    "query": "طريقة عمل مكرونة بالسجق",
+    "seed": "مكرونة",
+    "value": 100,
+    "breakout": false,
+    "formatted": "+100‎%‎"
+   },
+   {
+    "query": "طريقة عمل المكرونة المبكبكة",
+    "seed": "طريقة عمل",
+    "value": 90,
+    "breakout": false,
+    "formatted": "+90‎%‎"
+   },
+   {
+    "query": "اكلات للرجيم",
     "seed": "اكلات",
-    "value": 100,
+    "value": 90,
     "breakout": false,
-    "formatted": "+100‎%‎"
+    "formatted": "+90‎%‎"
    },
    {
-    "query": "تورتة شاورما",
-    "seed": "شاورما",
-    "value": 100,
-    "breakout": false,
-    "formatted": "+100‎%‎"
-   },
-   {
-    "query": "طريقة عمل شوربة الخضار",
-    "seed": "شوربة",
+    "query": "مكرونة بشاميل بالفراخ",
+    "seed": "مكرونة",
     "value": 90,
     "breakout": false,
     "formatted": "+90‎%‎"
@@ -176,71 +162,127 @@
     "formatted": "+80‎%‎"
    },
    {
-    "query": "مكرونة بالكبدة",
-    "seed": "مكرونة",
-    "value": 80,
-    "breakout": false,
-    "formatted": "+80‎%‎"
-   },
-   {
-    "query": "طريقة محشي البصل",
-    "seed": "محشي",
-    "value": 80,
-    "breakout": false,
-    "formatted": "+80‎%‎"
-   },
-   {
-    "query": "طريقة عمل شاورما الفراخ زي المحلات",
+    "query": "طريقة عمل شاورما الفراخ السوري",
     "seed": "شاورما",
     "value": 80,
     "breakout": false,
     "formatted": "+80‎%‎"
    },
    {
-    "query": "طريقة عمل محشي ورق العنب",
+    "query": "تورتة شاورما",
+    "seed": "شاورما",
+    "value": 80,
+    "breakout": false,
+    "formatted": "+80‎%‎"
+   },
+   {
+    "query": "طريقة عمل رز بلبن",
+    "seed": "رز",
+    "value": 70,
+    "breakout": false,
+    "formatted": "+70‎%‎"
+   },
+   {
+    "query": "رز بالكبدة",
+    "seed": "رز",
+    "value": 70,
+    "breakout": false,
+    "formatted": "+70‎%‎"
+   },
+   {
+    "query": "ميلفيه حلويات",
+    "seed": "حلويات",
+    "value": 70,
+    "breakout": false,
+    "formatted": "+70‎%‎"
+   },
+   {
+    "query": "ملفيه حلويات",
+    "seed": "حلويات",
+    "value": 70,
+    "breakout": false,
+    "formatted": "+70‎%‎"
+   },
+   {
+    "query": "طريقه عمل محشي الكرنب",
+    "seed": "محشي",
+    "value": 70,
+    "breakout": false,
+    "formatted": "+70‎%‎"
+   },
+   {
+    "query": "طريقة عمل شوربة الخضار",
+    "seed": "طريقة عمل",
+    "value": 60,
+    "breakout": false,
+    "formatted": "+60‎%‎"
+   },
+   {
+    "query": "اكلات بالبطاطس",
+    "seed": "اكلات",
+    "value": 60,
+    "breakout": false,
+    "formatted": "+60‎%‎"
+   },
+   {
+    "query": "ماكرون حلويات",
+    "seed": "حلويات",
+    "value": 60,
+    "breakout": false,
+    "formatted": "+60‎%‎"
+   },
+   {
+    "query": "طريقة محشي البصل",
     "seed": "محشي",
     "value": 60,
     "breakout": false,
     "formatted": "+60‎%‎"
    },
    {
-    "query": "لحمة ستيك",
-    "seed": "لحمة",
+    "query": "طريقة عمل عيش الكريب",
+    "seed": "طريقة عمل",
     "value": 50,
     "breakout": false,
     "formatted": "+50‎%‎"
    },
    {
-    "query": "لحمة بتلو",
-    "seed": "لحمة",
+    "query": "فتة شاورما فراخ",
+    "seed": "شاورما",
     "value": 50,
     "breakout": false,
     "formatted": "+50‎%‎"
    },
    {
-    "query": "طريقة عمل لحمة بالبصل",
-    "seed": "لحمة",
-    "value": 50,
+    "query": "طريقة عمل السبانخ",
+    "seed": "طريقة عمل",
+    "value": 40,
     "breakout": false,
-    "formatted": "+50‎%‎"
+    "formatted": "+40‎%‎"
    },
    {
-    "query": "رز برياني",
-    "seed": "رز",
-    "value": 50,
+    "query": "طريقة عمل القلقاس",
+    "seed": "طريقة عمل",
+    "value": 40,
     "breakout": false,
-    "formatted": "+50‎%‎"
+    "formatted": "+40‎%‎"
+   },
+   {
+    "query": "اكلات سهلة وسريعة",
+    "seed": "اكلات",
+    "value": 40,
+    "breakout": false,
+    "formatted": "+40‎%‎"
+   },
+   {
+    "query": "فراخ مسحب",
+    "seed": "فراخ",
+    "value": 40,
+    "breakout": false,
+    "formatted": "+40‎%‎"
    },
    {
     "query": "محشي مشكل",
     "seed": "محشي",
-    "value": 50,
-    "breakout": false,
-    "formatted": "+50‎%‎"
-   },
-   {
-    "query": "طريقة عمل مكرونة بشاميل",
-    "seed": "مكرونة",
     "value": 40,
     "breakout": false,
     "formatted": "+40‎%‎"
