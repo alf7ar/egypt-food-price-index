@@ -1,0 +1,250 @@
+{
+ "basket": {
+  "date": "2026-10-07",
+  "baseline": true,
+  "items_total": 25,
+  "items_priced": 25,
+  "groups": {
+   "fats": {
+    "items_priced": 3,
+    "sale_known": 3,
+    "on_sale": 1,
+    "mean_discount_pct": null,
+    "wow_pct": null,
+    "wow_items": 0
+   },
+   "pantry": {
+    "items_priced": 9,
+    "sale_known": 9,
+    "on_sale": 3,
+    "mean_discount_pct": null,
+    "wow_pct": null,
+    "wow_items": 0
+   },
+   "protein": {
+    "items_priced": 4,
+    "sale_known": 4,
+    "on_sale": 1,
+    "mean_discount_pct": null,
+    "wow_pct": null,
+    "wow_items": 0
+   },
+   "dairy": {
+    "items_priced": 4,
+    "sale_known": 4,
+    "on_sale": 3,
+    "mean_discount_pct": null,
+    "wow_pct": null,
+    "wow_items": 0
+   },
+   "drinks": {
+    "items_priced": 2,
+    "sale_known": 2,
+    "on_sale": 1,
+    "mean_discount_pct": null,
+    "wow_pct": null,
+    "wow_items": 0
+   },
+   "frozen": {
+    "items_priced": 3,
+    "sale_known": 3,
+    "on_sale": 0,
+    "mean_discount_pct": null,
+    "wow_pct": null,
+    "wow_items": 0
+   }
+  },
+  "basket": {
+   "items_priced": 25,
+   "sale_known": 25,
+   "on_sale": 9,
+   "mean_discount_pct": 11.8,
+   "total_egp": 1942.41,
+   "wow_pct": null,
+   "wow_items": 0,
+   "index": 100.0
+  }
+ },
+ "trends": {
+  "date": "2026-10-07",
+  "geo": "EG",
+  "timeRange": "now 7-d",
+  "rising": [
+   {
+    "query": "طريقة عمل شوربة الكوارع",
+    "seed": "شوربة",
+    "value": 41900,
+    "breakout": true,
+    "formatted": "ارتفاع هائل"
+   },
+   {
+    "query": "طريقة عمل شوربة الجمبري زي المطاعم",
+    "seed": "شوربة",
+    "value": 30750,
+    "breakout": true,
+    "formatted": "ارتفاع هائل"
+   },
+   {
+    "query": "فراخ برياني",
+    "seed": "فراخ",
+    "value": 7900,
+    "breakout": true,
+    "formatted": "ارتفاع هائل"
+   },
+   {
+    "query": "اكلات بالبطاطس",
+    "seed": "اكلات",
+    "value": 650,
+    "breakout": false,
+    "formatted": "+650‎%‎"
+   },
+   {
+    "query": "طريقه عمل محشي الكرنب",
+    "seed": "محشي",
+    "value": 550,
+    "breakout": false,
+    "formatted": "+550‎%‎"
+   },
+   {
+    "query": "اكلات للرجيم",
+    "seed": "اكلات",
+    "value": 150,
+    "breakout": false,
+    "formatted": "+150‎%‎"
+   },
+   {
+    "query": "اكلات سوريه",
+    "seed": "اكلات",
+    "value": 150,
+    "breakout": false,
+    "formatted": "+150‎%‎"
+   },
+   {
+    "query": "ورقة لحمة بالخضار",
+    "seed": "لحمة",
+    "value": 140,
+    "breakout": false,
+    "formatted": "+140‎%‎"
+   },
+   {
+    "query": "رز بالكبدة",
+    "seed": "رز",
+    "value": 130,
+    "breakout": false,
+    "formatted": "+130‎%‎"
+   },
+   {
+    "query": "طريقة عمل برجر اللحم مثل المطاعم",
+    "seed": "برجر",
+    "value": 120,
+    "breakout": false,
+    "formatted": "+120‎%‎"
+   },
+   {
+    "query": "وصفات باللحمة المفرومة",
+    "seed": "وصفات",
+    "value": 110,
+    "breakout": false,
+    "formatted": "+110‎%‎"
+   },
+   {
+    "query": "اكلات تركيه",
+    "seed": "اكلات",
+    "value": 100,
+    "breakout": false,
+    "formatted": "+100‎%‎"
+   },
+   {
+    "query": "تورتة شاورما",
+    "seed": "شاورما",
+    "value": 100,
+    "breakout": false,
+    "formatted": "+100‎%‎"
+   },
+   {
+    "query": "طريقة عمل شوربة الخضار",
+    "seed": "شوربة",
+    "value": 90,
+    "breakout": false,
+    "formatted": "+90‎%‎"
+   },
+   {
+    "query": "اكلات للعشاء",
+    "seed": "اكلات",
+    "value": 80,
+    "breakout": false,
+    "formatted": "+80‎%‎"
+   },
+   {
+    "query": "مكرونة بالكبدة",
+    "seed": "مكرونة",
+    "value": 80,
+    "breakout": false,
+    "formatted": "+80‎%‎"
+   },
+   {
+    "query": "طريقة محشي البصل",
+    "seed": "محشي",
+    "value": 80,
+    "breakout": false,
+    "formatted": "+80‎%‎"
+   },
+   {
+    "query": "طريقة عمل شاورما الفراخ زي المحلات",
+    "seed": "شاورما",
+    "value": 80,
+    "breakout": false,
+    "formatted": "+80‎%‎"
+   },
+   {
+    "query": "طريقة عمل محشي ورق العنب",
+    "seed": "محشي",
+    "value": 60,
+    "breakout": false,
+    "formatted": "+60‎%‎"
+   },
+   {
+    "query": "لحمة ستيك",
+    "seed": "لحمة",
+    "value": 50,
+    "breakout": false,
+    "formatted": "+50‎%‎"
+   },
+   {
+    "query": "لحمة بتلو",
+    "seed": "لحمة",
+    "value": 50,
+    "breakout": false,
+    "formatted": "+50‎%‎"
+   },
+   {
+    "query": "طريقة عمل لحمة بالبصل",
+    "seed": "لحمة",
+    "value": 50,
+    "breakout": false,
+    "formatted": "+50‎%‎"
+   },
+   {
+    "query": "رز برياني",
+    "seed": "رز",
+    "value": 50,
+    "breakout": false,
+    "formatted": "+50‎%‎"
+   },
+   {
+    "query": "محشي مشكل",
+    "seed": "محشي",
+    "value": 50,
+    "breakout": false,
+    "formatted": "+50‎%‎"
+   },
+   {
+    "query": "طريقة عمل مكرونة بشاميل",
+    "seed": "مكرونة",
+    "value": 40,
+    "breakout": false,
+    "formatted": "+40‎%‎"
+   }
+  ]
+ }
+}
